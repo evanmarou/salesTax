@@ -1,2 +1,2 @@
 # salesTax
-This is my first iOS app to calculate salesTax its builed it to xcode especialy for iphone 12 series 
+This is my first iOS app to calculate sales Tax its build it on Xcode especially for iPhone 12 series
